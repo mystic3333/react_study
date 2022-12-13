@@ -87,7 +87,7 @@
   "devDependencies": {
     "antd": "^4.3.3",
     "babel-plugin-import": "^1.13.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http-proxy-middleware": "^1.0.4",
     "react-redux": "^7.2.0",
     "redux-devtools-extension": "^2.13.8",
